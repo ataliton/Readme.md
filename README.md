@@ -39,9 +39,9 @@ Languages and Tools
 
 ### Database:
 
-| MySql | MongoDb | PostGreSQL |
-|----------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="mySql" alt="mySql" width="60" height="60"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongoDb" alt="mongoDb" width="60" height="60"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="mongoDb" alt="mongoDb" width="60" height="60"/> |
+| MySql | MongoDb | PostGreSQL | Oracle |
+|----------|----------|----------|----------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="mySql" alt="mySql" width="60" height="60"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongoDb" alt="mongoDb" width="60" height="60"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="mongoDb" alt="mongoDb" width="60" height="60"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle" alt="Oracle" width="60" height="60"/> |
 
 
 ### Environments, Testing, Other:
