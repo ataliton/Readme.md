@@ -6,13 +6,13 @@
 
 
 - 🔭 Sou Desenvolvedor Full-Stack
-- 🌱 Estudante de engenharia de software na católica e estudando **de tudo um pouco na área da tecnologia**
+- 🌱 Estudante de ADS**
 
 
 <div>
-<a href="https://github.com/pedrosantos2">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrosantos2&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="pedrosantos2"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosantos2&layout=compact&theme=dracula" alt="pedrosantos2"/>
+<a href="[https://github.com/pedrosantos2](https://github.com/ataliton)">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ataliton&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="ataliton"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ataliton&layout=compact&theme=dracula" alt="ataliton"/>
 </div>
 
 <picture>
