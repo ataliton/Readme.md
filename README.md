@@ -47,7 +47,7 @@ Languages and Tools
 ### Environments, Testing, Other:
 
 | Git | Postman | Insomnia | Composer | Trello | 
-|----------|----------|----------|----------|
+|----------|----------|----------|----------|----------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/insomnia/insomnia-original-wordmark.svg" title="Insomnia" alt="Insomnia" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/composer/composer-original.svg" title="Composer" alt="Composer" width="60" height="60"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg" title="Trello" alt="Trello" width="60" height="60"/>| 
 
 ### OS:
